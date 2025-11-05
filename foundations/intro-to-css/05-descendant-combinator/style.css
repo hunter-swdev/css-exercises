@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+
+/* decendant combinator */
+.container .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* type *and* class selctor combinator */
+/* div p.text {
+    color: red;
+    background-color: blue;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* type *and* type selctor combinator */
+/* div p {
+    color: red;
+    background-color: purple;
+    font-size: 20px;
+    text-align: center;  
+} */

@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-/* decendant combinator */
+/* descendant combinator */
 .container .text {
     color: red;
     background-color: yellow;

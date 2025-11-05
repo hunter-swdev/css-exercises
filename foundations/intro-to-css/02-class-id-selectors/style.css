@@ -7,3 +7,14 @@
 .but-cooler {
     font-size: 24px;
 }
+
+#element-two {
+    color: #0000f5;
+    font-size: 36px;
+}
+
+#element-four {
+    background-color: hsl(110, 95%, 77%);
+    font-size: 24px;
+    font-weight: 700;
+}
